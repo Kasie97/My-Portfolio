@@ -1,7 +1,9 @@
 body{
-    background: greenyellow
+    background: linear-gradient(90deg, hsla(112, 75%, 27%, 1) 0%, hsla(212, 75%, 27%, 1) 100%);
+    color: white;
 }
 
-h1{
-    color: rgb(147, 17, 241);
+.first-div{
+    padding: 20px;
+    background: linear-gradient(90deg, hsla(278, 75%, 52%, 1) 0%, hsla(378, 75%, 52%, 1) 100%);
 }
